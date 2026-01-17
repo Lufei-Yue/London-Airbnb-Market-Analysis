@@ -30,10 +30,10 @@ This project utilises **spatial data science** and **unsupervised machine learni
 ### 3. Machine Learning (Clustering)
 * **Algorithm:** K-Means Clustering.
 * **Optimisation:** Used the **Elbow Method** to determine the optimal cluster count ($K=5$).
-<img width="878" height="475" alt="image" src="https://github.com/user-attachments/assets/512cd764-e31b-43b2-a282-9435b4bf7468" />
+<img width="1773" height="1589" alt="image" src="https://github.com/user-attachments/assets/5572c6b1-c713-41df-9c16-becec898a9a1" />
 
 * **Interpretation:** Decoded mathematical clusters into business personas (e.g., *The Budget Kings*, *The Commercial Ops*).
-<img width="1055" height="986" alt="image" src="https://github.com/user-attachments/assets/b610580b-19ef-4158-a155-ebd2852afbef" />
+![Uploading image.png…]()
 
 
 ## Key Insights & Visualisations
