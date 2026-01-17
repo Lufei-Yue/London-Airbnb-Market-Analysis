@@ -21,11 +21,10 @@ This project utilises **spatial data science** and **unsupervised machine learni
 
 ### 2. Geospatial Analysis
 * **Mapping:** Utilised **GeoPandas** and `contextily` to project listing data onto official London Borough boundaries (EPSG:3857).
-<img width="1773" height="1589" alt="image" src="https://github.com/user-attachments/assets/25545fc2-8d31-43f2-9989-2b1247fac501" />
 
 * **Visualisation:** Created professional choropleth maps with optimised labelling strategies for dense urban areas.
-<img width="1056" height="706" alt="image" src="https://github.com/user-attachments/assets/99c398a3-3930-4c66-b737-4a07a956ae3d" />
-
+<img width="1773" height="1589" alt="image" src="https://github.com/user-attachments/assets/25545fc2-8d31-43f2-9989-2b1247fac501" />
+<img width="1056" height="706" alt="image" src="https://github.com/user-attachments/assets/d0b0c307-dbc3-4ea5-9c32-9f097d6aedac" />
 
 
 ### 3. Machine Learning (Clustering)
