@@ -24,16 +24,19 @@ This project utilises **spatial data science** and **unsupervised machine learni
 <img width="1773" height="1589" alt="image" src="https://github.com/user-attachments/assets/25545fc2-8d31-43f2-9989-2b1247fac501" />
 
 * **Visualisation:** Created professional choropleth maps with optimised labelling strategies for dense urban areas.
-<img width="1773" height="1589" alt="image" src="https://github.com/user-attachments/assets/85430466-255b-4039-87f5-cdbf872dbd54" />
+<img width="1056" height="706" alt="image" src="https://github.com/user-attachments/assets/99c398a3-3930-4c66-b737-4a07a956ae3d" />
+
 
 
 ### 3. Machine Learning (Clustering)
 * **Algorithm:** K-Means Clustering.
 * **Optimisation:** Used the **Elbow Method** to determine the optimal cluster count ($K=5$).
-<img width="1773" height="1589" alt="image" src="https://github.com/user-attachments/assets/5572c6b1-c713-41df-9c16-becec898a9a1" />
+<img width="878" height="475" alt="image" src="https://github.com/user-attachments/assets/5a7e8fcf-a16e-4bc4-9f49-85bcb7432893" />
+
 
 * **Interpretation:** Decoded mathematical clusters into business personas (e.g., *The Budget Kings*, *The Commercial Ops*).
-![Uploading image.png…]()
+<img width="1055" height="986" alt="image" src="https://github.com/user-attachments/assets/b7d9504a-a7bc-47eb-834a-be30c873e08b" />
+
 
 
 ## Key Insights & Visualisations
